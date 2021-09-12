@@ -1,1 +1,1 @@
-{"确定":["OK","Yes"],"取消":["Cancel","No"],"是":"Yes","否":"No"}
+{"应用启动错误：无法打开数据库":"Error: Cannot open database.","文件加载错误":"Error reading file","网络错误，请重试":"Network Error","加载错误，请确保网络连接正常":"Error: Please check your network connection.","确定":["OK","Yes"],"取消":["Cancel","No"],"是":"Yes","否":"No"}
