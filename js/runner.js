@@ -1,0 +1,1 @@
+const GID=location.search.slice(1);

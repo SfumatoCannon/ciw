@@ -1,0 +1,1 @@
+body{background:var(--bg)!important}#wrap{position:fixed;inset:0;min-width:800px;min-height:608px;opacity:0;transition:opacity .5s,transform .5s;pointer-events:none}#box{width:800px;height:608px;border:none}#screen{position:absolute;width:800px;height:608px}
