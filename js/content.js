@@ -1,1 +1,0 @@
-const Content={gItem(){let e=El("div","box g-i");return e.ap(El("div","cover",{innerHTML:UI.ico("ply")}),El("p","g-name"),El("div","g-maker dots"),El("div","g-date fr")),e}};
