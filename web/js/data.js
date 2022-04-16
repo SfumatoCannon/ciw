@@ -1,0 +1,1 @@
+AV.init({appId:"pz48k2JqRsnuVf2z0eREPWBx-MdYXbMMI",appKey:"cHYN2jvuXSpDtcT8FLl7IIBs",serverURLs:"https://api.vicklleall.com"}),new AV.Query("CIW").descending("createdAt").first().then(e=>{const t=$t("b",$("data"));t[0].innerText=e.get("users"),t[1].innerText=e.get("games"),t[2].innerText=e.get("levels")});
